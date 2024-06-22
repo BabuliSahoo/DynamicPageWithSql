@@ -1,0 +1,8 @@
+Install  MySQl
+https://dev.mysql.com/downloads/
+
+MySQL Community Server
+MySQL Workbench
+
+npm install --save mysql2
+
